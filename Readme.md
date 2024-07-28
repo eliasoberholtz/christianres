@@ -4,4 +4,10 @@ A website to find resources for Christians (mainly apostolic Christians).
 
 - [For Catholics](pages/catholic.md)
 
-> May Christ Guide us till the end of the age
+- [Comedy](pages/comedy.md)
+
+![Site image](assets/favicon.png "Website icon")
+
+<!-- >Say a rosary, you pagan!-->
+
+> May Christ guide us till the end of the age
