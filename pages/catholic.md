@@ -4,7 +4,7 @@
 
 - Douay-Rheims Bible
 - Biblia Vulgata
-- NABRE Bible
+- [NABRE Bible](https://bible.usccb.org/bible)
 
 ## Websites
 
