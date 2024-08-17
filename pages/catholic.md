@@ -1,4 +1,7 @@
-# Catholic Resources
+---
+title: Catholic Resources
+layout: default
+---
 
 ## Bibles
 

@@ -1,5 +1,7 @@
-
-# Christian Resources
+---
+title: Main Page
+layout: default
+---
 
 A website to find resources for Christians (mainly apostolic Christians).
 
@@ -10,5 +12,3 @@ A website to find resources for Christians (mainly apostolic Christians).
 ![Site image](assets/favicon.png "Website icon")
 
 <!-- >Say a rosary, you pagan!-->
-
-> May Christ guide us till the end of the age

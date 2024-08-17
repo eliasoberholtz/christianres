@@ -1,0 +1,13 @@
+html {
+    background-color: floralwhite;
+    margin: 50px;
+}
+
+blockquote {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 2px solid #DDF7F3;
+    padding: 6px;
+    margin: 5px;
+    border-radius: 9px;
+}
