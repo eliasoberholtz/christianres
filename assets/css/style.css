@@ -1,5 +1,5 @@
 html {
-    background-color: floralwhite;
+    background-color: rgb(240, 252, 255);
     margin: 50px;
 }
 
@@ -10,4 +10,8 @@ blockquote {
     padding: 6px;
     margin: 5px;
     border-radius: 9px;
+}
+
+img {
+    size: 50px
 }
